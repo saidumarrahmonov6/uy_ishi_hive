@@ -4,6 +4,7 @@ import 'package:hive_flutter/adapters.dart';
 import 'package:uy_ishi_1123/add.dart';
 import 'package:uy_ishi_1123/maxsulot.dart';
 late Box<Maxsulot> maxsulotBox;
+//salommmmmm
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
