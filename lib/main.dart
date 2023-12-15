@@ -5,7 +5,7 @@ import 'package:uy_ishi_1123/add.dart';
 import 'package:uy_ishi_1123/maxsulot.dart';
 late Box<Maxsulot> maxsulotBox;
 //salommmmmm
-
+asdasdasdasdasdasdadasdasdasdasdsd
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();
